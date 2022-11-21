@@ -16,7 +16,7 @@ public class AdapterCard {
             ivFoto = itemView.findViewById(R.id.iv_foto);
             tvNama = itemView.findViewById(R.id.tv_nama);
             tvTentang = itemView.findViewById(R.id.tv_tentang);
-            
+
         }
     }
 }
